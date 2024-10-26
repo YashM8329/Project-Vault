@@ -1,9 +1,0 @@
-.container text-center .row ~ .col-lg-4 .card{
-    width: 768px;
-}
-
-@media (max-width: 767.98px) {
-    .custom-card {
-        width: 45rem;
-    }
-}
