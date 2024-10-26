@@ -1,3 +1,3 @@
 # Project-Vault
 WebDev projects
-This Repository includes by every project
+This Repository includes my every project
